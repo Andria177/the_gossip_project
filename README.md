@@ -1,24 +1,5 @@
-# README
+Bonjour!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Normalement, c'est mon site de gossip développé avec beaucoup de conviction et de sueur.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Bonne journée!
